@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Gebruik deze referentie met bronvermelding en vermeld de versie."
+title: "Gemeenschapskwartiergelijktijdigheid: referentie voor de benuttingsgraad van verdeelmodellen bij energiedelen"
+version: 1.0.0
+date-released: 2026-10-10
+license: MIT
+authors:
+  - name: "[naam auteur of organisatie]"
+keywords:
+  - energiedelen
+  - energy sharing
+  - gemeenschapskwartiergelijktijdigheid
+  - benuttingsgraad
+  - energiecoöperaties
