@@ -1,0 +1,11 @@
+{
+  "gemeenschap": ["A", "B", "C", "D", "E"],
+  "bron_metingen": "Fictief testgeval; het derde kwartier mist een meting en valt buiten de berekening",
+  "modellen": [
+    {"model": "gemeenschap_naar_verbruik"},
+    {"model": "gemeenschap_gelijk"},
+    {"model": "gemeenschap_met_voorrang", "voorrang": ["C", "E"]},
+    {"model": "vaste_sleutel", "fracties": {"A": {"B": 0.5, "C": 0.5}, "D": {"E": 1.0}}},
+    {"model": "dynamische_sleutel", "koppelingen": {"A": ["B", "C"], "D": ["E"]}}
+  ]
+}
