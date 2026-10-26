@@ -114,7 +114,7 @@ In elke stap blijven de uitkomsten openbaar en bruikbaar voor iedereen, ook in d
 
 - **Als organisatie:** lever meetreeksen van je eigen deelnemers aan via de partnerovereenkomst. Je mag je logo als partner op de website zetten en de historische aggregaten gebruiken, ook in je eigen lobby.
 - **Als ontwikkelaar of onderzoeker:** verbeter de rekenmodellen of de referentiedefinitie via een issue of pull request.
-- **Contact:** [e-mailadres]
+- **Contact:** [freddeborst@ecobeverwijk.nl]
 
 ## Licenties
 
